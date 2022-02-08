@@ -1,0 +1,6 @@
+a=int(input('enter kilometers'))
+cm=a*10**5
+print(cm)
+OUTPUT:
+enter kilometers 5
+500000
